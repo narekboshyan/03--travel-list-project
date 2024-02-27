@@ -29,6 +29,7 @@ const App = () => {
   }
 
   console.log({ items });
+  //remove console
 
   return (
     <div className="app">
